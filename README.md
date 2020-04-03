@@ -6,14 +6,6 @@ Olá! esse é um pequeno desafio para a vaga de Desenvolvedor PHP Pleno no Insti
 
 This challenge consists of creating a simple REST API. You can use any framework, lib and database you desire, just make sure to show some of your core PHP and SQL skills! Simply clone this repository, create a branch with your name and start coding! When you're done, make a Pull Request.
 
-
-# Instituto Atlântico PHP Challenge
-Olá! esse é um pequeno desafio para a vaga de Desenvolvedor PHP Pleno no Instito Atlântico. Note que daqui em diante, como a vaga pede inglês intermediário, a descrição do desafio será em inglês. É interessante que para esta vaga você tenha boa habilidade de leitura em inglês, e consiga ler e escrever código e documentações na língua.
-
-# PHP Challenge
-
-This challenge consists of creating a simple REST API. You can use any framework, lib and database you desire, just make sure to show some of your core PHP and SQL skills! Simply clone this repository, create a branch with your name and start coding! When you're done, make a Pull Request.
-
 ### API Description
 In this challenge you will create an API for a library with these conditions:
 
