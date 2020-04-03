@@ -17,11 +17,11 @@ This challenge consists of creating a simple REST API. You can use any framework
 ### API Description
 In this challenge you will create an API for a library with these conditions:
 
-* **Login and Logout** 
+* **Login and Logout**;
   _Create routes for session handling with Json Web Tokens._
-* **Books**
+* **Books**;
   _Routes for creating, editing, listing and deleting books. Books must have a Title and an unit count for how many copies exist in the library._
-* **Users**
+* **Users**;
   _Routes for creating, editing, listing and deleting users. Keep it simple: Give them a name, email and password._
 * **Book Rents**
   _Users will be able to rent books. The API must be able to associate rented books to users, date of rent, the payment value, status(the rent can be ongoing, late or paid) and the rent expiration date. The API must also be able to list all ongoing book rents, and must have routes for the user to deliver the book and set rent status to paid. Also remember that books have limited copies! If there are no more copies of a book, an user cannot rent it until another user delivers a copy of that book._
