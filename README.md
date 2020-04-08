@@ -1,5 +1,8 @@
 ![](https://lh3.googleusercontent.com/-SjJCP2AntwI/XoYRxI-hBjI/AAAAAAAABA4/bFi0th7AKGgQFVIOB8L-GiWSZriYhI6MgCK8BGAsYHg/s0/2020-04-02.png)
 # Instituto Atlântico PHP Challenge
+
+**Challenge criado por [Mário Fonteles](https://github.com/mariofonteles)**
+
 Olá! esse é um pequeno desafio para a vaga de Desenvolvedor PHP Pleno no Instito Atlântico. Note que daqui em diante, como a vaga pede inglês intermediário, a descrição do desafio será em inglês. É interessante que para esta vaga você tenha boa habilidade de leitura em inglês, e consiga ler e escrever código e documentações na língua.
 
 # PHP Challenge
